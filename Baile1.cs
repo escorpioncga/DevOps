@@ -10,6 +10,7 @@ public class Baile1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
        Efectos=transform.GetChild(2).gameObject;
        for(int i=0;i<3;i++)
          this.Fx.Add(Efectos.transform.GetChild(i).gameObject);
