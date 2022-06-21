@@ -19,6 +19,7 @@ public class Baile1 : MonoBehaviour
     //Doctor Mauricio ALba
     public ParticleSystem jurado1()
     {
+     //paosposa
       return null;
      }
     //Doctor Oscar Franco
