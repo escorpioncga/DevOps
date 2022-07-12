@@ -19,7 +19,6 @@ public class Baile1 : MonoBehaviour
     //Jurado1
     public ParticleSystem jurado1()
     {
-     //paosposa
       return null;
      }
     //Jurado2
