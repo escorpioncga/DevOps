@@ -16,7 +16,7 @@ public class Baile1 : MonoBehaviour
          this.Fx.Add(Efectos.transform.GetChild(i).gameObject);
     }
 
-    //Codigo Jurado1 en pruebas
+    //Aqui va el Codigo Jurado1
     public ParticleSystem jurado1()
     {
       return null;
