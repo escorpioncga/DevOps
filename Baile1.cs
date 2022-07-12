@@ -21,7 +21,7 @@ public class Baile1 : MonoBehaviour
     {
       return null;
      }
-    //Codigo Jurado2 en pruebas
+    //jurado2
     public ParticleSystem jurado2()
     {
      return null;
