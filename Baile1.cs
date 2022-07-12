@@ -16,18 +16,18 @@ public class Baile1 : MonoBehaviour
          this.Fx.Add(Efectos.transform.GetChild(i).gameObject);
     }
 
-    //Doctor Mauricio ALba
+    //Jurado1
     public ParticleSystem jurado1()
     {
      //paosposa
       return null;
      }
-    //Doctor Oscar Franco
+    //Jurado2
     public ParticleSystem jurado2()
     {
      return null;
     }
-    //Doctor Luis Botia
+    //Jurado3
     public ParticleSystem jurado3()
     {
       return null;
