@@ -19,17 +19,11 @@ public class Baile1 : MonoBehaviour
     //Jurado1
     public ParticleSystem jurado1()
     {
-      //codigo del jueradooo
-      //mas programo
-      //mas
       return null;
      }
     //jurado2
     public ParticleSystem jurado2()
     {
-      //mas codigo del jurado2
-      //se pone mas codigo
-      //y otra linea mas
      return null;
     }
     //Jurado3
