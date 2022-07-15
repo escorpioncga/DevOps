@@ -29,7 +29,8 @@ public class Baile1 : MonoBehaviour
     //Jurado3
     public ParticleSystem jurado3()
     {
-      //codigo
+      GetComponent<Animator>().SetInteger("paso3",1);
+      return Fx[2].GetComponent<>(ParticleSystem);
       return null;
     }
 }
