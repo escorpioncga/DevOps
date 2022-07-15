@@ -18,8 +18,10 @@ public class Baile1 : MonoBehaviour
 
     //Jurado1
     public ParticleSystem jurado1()
-    {
-      return null;
+    { 
+      GetComponent<Animator>().SetInteger("paso 1 Rocking", 1);
+      
+      return Fx[0].GetComponent<ParticleSystem>();
      }
     //jurado2
     public ParticleSystem jurado2()
